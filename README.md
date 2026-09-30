@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on Balaji Computers’ React E-Commerce Platform and IT Infrastructure<br><br>👯 I’m looking to collaborate on Open-Source, React, IT Automation, Cloud and DevOps projects<br><br>🤝 I’m looking for help with Cloud Architecture, DevOps, CI/CD and Production-Ready Application Development<br><br>🌱 I’m currently learning Cloud Computing, DevOps, Docker, CI/CD, Supabase and Firebase<br><br>💬 Ask me about IT Support, Hardware, Networking, Windows/Linux, Windows Server, React, WordPress and Troubleshooting<br><br>⚡ Fun fact I can troubleshoot your PC, configure your server and build your website — sometimes all in the same day 😄
 
